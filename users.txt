@@ -1,0 +1,3 @@
+ID|NAME|USERNAME|PASSWORD|ROLE|EMAIL
+U1|Sara Ahmed|sara_new|newpass|LIBRARIAN|sara@mail.com
+U2|Omar Ali|omar|abcd|PATRON|omar@mail.com
